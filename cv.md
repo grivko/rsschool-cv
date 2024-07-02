@@ -23,5 +23,5 @@ return a * b
 ```
 
 ## _Languages_
-- English: A2 (need more practice)
-- German: A1 (stydy in Duolingo)
+- English:A2 (need more practice)
+- German:A1 (stydy in Duolingo)
