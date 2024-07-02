@@ -1,4 +1,4 @@
-# Daria Grivko
+# **Daria Grivko**
 
 ## _Contacts_
 - Location: Minsk, Belarus
