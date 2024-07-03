@@ -1,2 +1,2 @@
 # rsschool-cv
-https://grivko.github.io/rsschool-cv/cv
+https://grivko.github.io/rsschool-cv/
